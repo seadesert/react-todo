@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.button {
+  margin-left: 10px;
+}
+.task-container {
+  background-color: seagreen;
+  color: white;
+  padding: 20px;
+  margin: 80px;
+  border-radius: 6px;
+  border: 1px solid grey;
+  display: inline-block;
+}
